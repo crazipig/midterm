@@ -43,7 +43,7 @@ footer {
   justify-content: center;
 }
 .certificate{
-  margin:20px;
+  margin:20px 30px 20px 30px;
 }
 .icon{
   background-color:#1f7a8c;
@@ -193,10 +193,13 @@ nav a:hover {
     margin:15px 15px;
     background-color: #003d5b;
 }
+
 .greenbox{
+  background-color:gainsboro;
   font-size: 20px;
   width:90%;
   height:60%;
+  color:black;
   border-radius:25px;
   margin:15px 15px;
   background-color: #335c67;
