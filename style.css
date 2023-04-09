@@ -253,8 +253,15 @@ nav a:hover {
 {
     color: aliceblue;
     padding:5px;
-    margin:5px;
+    margin-right:90px;
     font-family: 'Noto Serif TC', serif;
+}
+.schoolbox{
+  background-color: #e09f3e;
+}
+.school{
+  padding: 30px;
+  font-size: 25px;
 }
 .picword{
     font-size: 40px;
@@ -298,7 +305,20 @@ nav a:hover {
     transition: 0.4s linear;
     transition-property: width, background-color;
   }
-   
+  .circle{
+    width:300px;
+    height:90px;
+    background-color: #540b0e;
+    color: white;
+    border-radius: 80px;
+    font-size:20px;
+    padding-top: 40px;
+    margin-left:4px;
+
+  }
+  .more{
+    display:flex;
+  }
   .progress-moved .progress-bar2 {
     width: 75%;
     background-color: #dd1c1a;
